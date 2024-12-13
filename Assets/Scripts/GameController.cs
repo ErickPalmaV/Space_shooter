@@ -10,13 +10,13 @@ public class GameController : MonoBehaviour
     [SerializeField] SoundController soundController;
     [SerializeField] ObjectPool[] objectPool;
     [SerializeField] private int score;
-    bool gameIsRunning;
+    bool _gameIsRunning;
     private void Start()
     {   
         score = 0;
         player.GetComponent<ShipMediator>().Configure(this);
         StopGame();
-        interfaceController.configure(this);
+        interfaceController.Configure(this);
         interfaceController.StartMenu();
         foreach (var pool in objectPool)
         {
@@ -26,11 +26,11 @@ public class GameController : MonoBehaviour
     private void StopGame()
     {
         StopAllCoroutines();
-        gameIsRunning = false;
-        enemySpawner.IsGameRunning(gameIsRunning);
-        player.SetActive(gameIsRunning);
-        enemySpawner.gameObject.SetActive(gameIsRunning);
-        Parallax.Enable = gameIsRunning;
+        _gameIsRunning = false;
+        enemySpawner.IsGameRunning(_gameIsRunning);
+        player.SetActive(_gameIsRunning);
+        enemySpawner.gameObject.SetActive(_gameIsRunning);
+        Parallax.Enable = _gameIsRunning;
         foreach (var pool in objectPool)
         {
             pool.DisableAll();
@@ -43,11 +43,11 @@ public class GameController : MonoBehaviour
     }
     public void StartGame()
     {
-        gameIsRunning = true;
-        enemySpawner.IsGameRunning(gameIsRunning);
-        player.SetActive(gameIsRunning);
-        Parallax.Enable = gameIsRunning;
-        enemySpawner.gameObject.SetActive(gameIsRunning);
+        _gameIsRunning = true;
+        enemySpawner.IsGameRunning(_gameIsRunning);
+        player.SetActive(_gameIsRunning);
+        Parallax.Enable = _gameIsRunning;
+        enemySpawner.gameObject.SetActive(_gameIsRunning);
         foreach (var pool in objectPool)
         {
             pool.StartGame();
@@ -76,7 +76,7 @@ public class GameController : MonoBehaviour
 
     IEnumerator ScoreUp()
     {
-        while (gameIsRunning)
+        while (_gameIsRunning)
         {
             yield return new WaitForSeconds(1f);
             score++;
@@ -85,7 +85,7 @@ public class GameController : MonoBehaviour
         
     }
 
-    public void setHealth(float health)
+    public void SetHealth(float health)
     {
         interfaceController.HealtBar(health);
     }

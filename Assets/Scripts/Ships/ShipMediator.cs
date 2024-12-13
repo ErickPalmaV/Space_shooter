@@ -76,7 +76,7 @@ public class ShipMediator: MonoBehaviour, IShip
     {
         if (!isEnemy)
         {
-            _gameController.setHealth(health);
+            _gameController.SetHealth(health);
         }
         StartCoroutine(ShowDamage());
         if (isDeath)

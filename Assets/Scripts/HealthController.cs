@@ -18,7 +18,6 @@
             _currentHealth = Mathf.Max(0, _currentHealth - damage);
             var isDead = _currentHealth <= 0;
             float healtPorcentage = (float)_currentHealth/(float)health;
-            Debug.Log(_currentHealth + " "+health + " " + healtPorcentage);
             _ship.OnDamageReceived(isDead,healtPorcentage);
         }
     }

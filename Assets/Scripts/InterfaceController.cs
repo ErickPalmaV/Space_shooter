@@ -15,7 +15,7 @@ public class InterfaceController : MonoBehaviour
     [SerializeField]TextMeshProUGUI score;
     [SerializeField]TextMeshProUGUI gameOverScore;
     [SerializeField]Hud hud;
-    [SerializeField] Image HealtBarImage;
+    [SerializeField] Image healtBarImage;
     GameController _gameController;
     
     private void Start()
@@ -26,7 +26,7 @@ public class InterfaceController : MonoBehaviour
         menuButton.onClick.AddListener(Menu);
     }
     
-    public void configure( GameController gameController )
+    public void Configure( GameController gameController )
     {
         _gameController = gameController;
     }
@@ -73,6 +73,6 @@ public class InterfaceController : MonoBehaviour
 
     public void HealtBar(float healt)
     {
-        HealtBarImage.fillAmount = healt;
+        healtBarImage.fillAmount = healt;
     }
 }

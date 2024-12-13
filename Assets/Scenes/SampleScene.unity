@@ -2116,7 +2116,7 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: cdc262f4eefd8e24186a8c42ba98c846, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  enemysPool: {fileID: 1870805853}
+  enemiesPool: {fileID: 1870805853}
   spawnTimes:
   - 2
   - 8
@@ -8900,7 +8900,7 @@ MonoBehaviour:
   score: {fileID: 646831094}
   gameOverScore: {fileID: 145747426}
   hud: {fileID: 310907863}
-  HealtBarImage: {fileID: 1508543414}
+  healtBarImage: {fileID: 1508543414}
 --- !u!1 &1418849009
 GameObject:
   m_ObjectHideFlags: 0
@@ -10211,7 +10211,7 @@ GameObject:
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
-  m_IsActive: 0
+  m_IsActive: 1
 --- !u!224 &2049298382
 RectTransform:
   m_ObjectHideFlags: 0
@@ -10400,7 +10400,7 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: e8710e84ef9dbe948a15764d044da918, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  soundbutton: {fileID: 239478852}
+  soundButton: {fileID: 239478852}
   soundOn: {fileID: 5330590099290348816, guid: 9c8e9dbf86f7ae84bb7581fc19b6d7e0, type: 3}
   soundOff: {fileID: 3225370271932388785, guid: cd61b7d67baca4a48afdd1ab33db65e2, type: 3}
 --- !u!4 &2127867747

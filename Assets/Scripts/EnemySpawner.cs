@@ -5,7 +5,7 @@ using Random = UnityEngine.Random;
 
 public class EnemySpawner : MonoBehaviour
 {
-    [SerializeField] private ObjectPool enemysPool;
+    [SerializeField] private ObjectPool enemiesPool;
     [SerializeField] private float[] spawnTimes;
     [SerializeField] private int[]  enemiesToSpawnTimes;
     [SerializeField] private Transform[] spawnPositions;
@@ -41,7 +41,7 @@ public class EnemySpawner : MonoBehaviour
                 for (int i = 0; i < enemiesToSpawnTimes[_index]; i++)
                 {
                     var randomPosition = Random.Range(0, spawnPositions.Length);
-                    var enemy=enemysPool.RequestGameObject();
+                    var enemy=enemiesPool.RequestGameObject();
                     enemy.transform.position = spawnPositions[randomPosition].position;
                     enemy.transform.rotation = quaternion.RotateY(180);
                 }
