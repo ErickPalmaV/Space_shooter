@@ -1,0 +1,1105 @@
+fileFormatVersion: 2
+guid: 0fe6c033f0901884da7e5d94463bba1f
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -8692763869700155966
+    second: stones1_0
+  - first:
+      213: -5958948536151229222
+    second: stones1_1
+  - first:
+      213: -8612148534075845461
+    second: stones1_2
+  - first:
+      213: -9073237411927599661
+    second: stones1_3
+  - first:
+      213: -5034959850048856035
+    second: stones1_4
+  - first:
+      213: 442138495661474434
+    second: stones1_5
+  - first:
+      213: 9178363740437992237
+    second: stones1_6
+  - first:
+      213: 3826843449150721636
+    second: stones1_7
+  - first:
+      213: -7089179944293831390
+    second: stones1_8
+  - first:
+      213: -8115072319127095135
+    second: stones1_9
+  - first:
+      213: 4283415500035331030
+    second: stones1_10
+  - first:
+      213: 3940664465536910214
+    second: stones1_11
+  - first:
+      213: -2232355487114372029
+    second: stones1_12
+  - first:
+      213: -1211695213384217843
+    second: stones1_13
+  - first:
+      213: -4911450918798582681
+    second: stones1_14
+  - first:
+      213: -4206681688769149779
+    second: stones1_15
+  - first:
+      213: -3742865111496797922
+    second: stones1_16
+  - first:
+      213: -351368533004855241
+    second: stones1_17
+  - first:
+      213: -6406181363241895611
+    second: stones1_18
+  - first:
+      213: -2368625952668404748
+    second: stones1_19
+  - first:
+      213: -8693823947566681999
+    second: stones1_20
+  - first:
+      213: 5209625244249967697
+    second: stones1_21
+  - first:
+      213: 4713886659904756308
+    second: stones1_22
+  - first:
+      213: 3872965734695560965
+    second: stones1_23
+  - first:
+      213: -4279569859795096310
+    second: stones1_24
+  - first:
+      213: 5425028788678633088
+    second: stones1_25
+  - first:
+      213: -8561081336360404046
+    second: stones1_26
+  - first:
+      213: -297252737945532576
+    second: stones1_27
+  - first:
+      213: -2522137952992661529
+    second: stones1_28
+  - first:
+      213: -3859477819372370169
+    second: stones1_29
+  - first:
+      213: 1043740875419891197
+    second: stones1_30
+  - first:
+      213: 6751200667057716834
+    second: stones1_31
+  - first:
+      213: -4339445515917818243
+    second: stones1_32
+  - first:
+      213: 966268508630877004
+    second: stones1_33
+  - first:
+      213: -686059529004552070
+    second: stones1_34
+  - first:
+      213: -442857572122494544
+    second: stones1_35
+  - first:
+      213: 7399090586087748214
+    second: stones1_36
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 1
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 48
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: stones1_0
+      rect:
+        serializedVersion: 2
+        x: 643
+        y: 495
+        width: 19
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2c51c2611591d5780800000000000000
+      internalID: -8692763869700155966
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: stones1_1
+      rect:
+        serializedVersion: 2
+        x: 171
+        y: 472
+        width: 20
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: adc3fd3d0ef8d4da0800000000000000
+      internalID: -5958948536151229222
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: stones1_2
+      rect:
+        serializedVersion: 2
+        x: 341
+        y: 435
+        width: 51
+        height: 38
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ba4128199808b7880800000000000000
+      internalID: -8612148534075845461
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: stones1_3
+      rect:
+        serializedVersion: 2
+        x: 435
+        y: 460
+        width: 21
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3d5554b55a2651280800000000000000
+      internalID: -9073237411927599661
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: stones1_4
+      rect:
+        serializedVersion: 2
+        x: 533
+        y: 437
+        width: 44
+        height: 45
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d10eb7751ba302ab0800000000000000
+      internalID: -5034959850048856035
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: stones1_5
+      rect:
+        serializedVersion: 2
+        x: 736
+        y: 458
+        width: 33
+        height: 35
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2828d678e9ac22600800000000000000
+      internalID: 442138495661474434
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: stones1_6
+      rect:
+        serializedVersion: 2
+        x: 39
+        y: 426
+        width: 25
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d23d1206139106f70800000000000000
+      internalID: 9178363740437992237
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: stones1_7
+      rect:
+        serializedVersion: 2
+        x: 877
+        y: 440
+        width: 12
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 46ec8ad67ddab1530800000000000000
+      internalID: 3826843449150721636
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: stones1_8
+      rect:
+        serializedVersion: 2
+        x: 120
+        y: 346
+        width: 38
+        height: 39
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 22dea87966c2e9d90800000000000000
+      internalID: -7089179944293831390
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: stones1_9
+      rect:
+        serializedVersion: 2
+        x: 574
+        y: 378
+        width: 48
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1a8f2d3a8b8716f80800000000000000
+      internalID: -8115072319127095135
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: stones1_10
+      rect:
+        serializedVersion: 2
+        x: 723
+        y: 381
+        width: 22
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6d31209e3bfb17b30800000000000000
+      internalID: 4283415500035331030
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: stones1_11
+      rect:
+        serializedVersion: 2
+        x: 252
+        y: 349
+        width: 14
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 683055fe37d00b630800000000000000
+      internalID: 3940664465536910214
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: stones1_12
+      rect:
+        serializedVersion: 2
+        x: 363
+        y: 335
+        width: 22
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 34c572213841501e0800000000000000
+      internalID: -2232355487114372029
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: stones1_13
+      rect:
+        serializedVersion: 2
+        x: 499
+        y: 338
+        width: 19
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d0b413e8f913f2fe0800000000000000
+      internalID: -1211695213384217843
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: stones1_14
+      rect:
+        serializedVersion: 2
+        x: 859
+        y: 328
+        width: 46
+        height: 35
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 76c9e3d496507dbb0800000000000000
+      internalID: -4911450918798582681
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: stones1_15
+      rect:
+        serializedVersion: 2
+        x: 627
+        y: 315
+        width: 21
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: da446c1ca4dde95c0800000000000000
+      internalID: -4206681688769149779
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: stones1_16
+      rect:
+        serializedVersion: 2
+        x: 198
+        y: 265
+        width: 36
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e11d70bf20cae0cc0800000000000000
+      internalID: -3742865111496797922
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: stones1_17
+      rect:
+        serializedVersion: 2
+        x: 436
+        y: 241
+        width: 43
+        height: 37
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 738defc4e20bf1bf0800000000000000
+      internalID: -351368533004855241
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: stones1_18
+      rect:
+        serializedVersion: 2
+        x: 72
+        y: 218
+        width: 50
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5493d35ddfba817a0800000000000000
+      internalID: -6406181363241895611
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: stones1_19
+      rect:
+        serializedVersion: 2
+        x: 382
+        y: 246
+        width: 14
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4f3bd6dde33f02fd0800000000000000
+      internalID: -2368625952668404748
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: stones1_20
+      rect:
+        serializedVersion: 2
+        x: 864
+        y: 230
+        width: 11
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 170f0897e25595780800000000000000
+      internalID: -8693823947566681999
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: stones1_21
+      rect:
+        serializedVersion: 2
+        x: 261
+        y: 187
+        width: 24
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 15c4d60de8e4c4840800000000000000
+      internalID: 5209625244249967697
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: stones1_22
+      rect:
+        serializedVersion: 2
+        x: 372
+        y: 209
+        width: 11
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 45a531321f61b6140800000000000000
+      internalID: 4713886659904756308
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: stones1_23
+      rect:
+        serializedVersion: 2
+        x: 598
+        y: 202
+        width: 22
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 507e9cbd0d98fb530800000000000000
+      internalID: 3872965734695560965
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: stones1_24
+      rect:
+        serializedVersion: 2
+        x: 721
+        y: 185
+        width: 26
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a0de17bf2e9eb94c0800000000000000
+      internalID: -4279569859795096310
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: stones1_25
+      rect:
+        serializedVersion: 2
+        x: 493
+        y: 172
+        width: 11
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0862575b0f2994b40800000000000000
+      internalID: 5425028788678633088
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: stones1_26
+      rect:
+        serializedVersion: 2
+        x: 146
+        y: 131
+        width: 18
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2bbf20512ede03980800000000000000
+      internalID: -8561081336360404046
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: stones1_27
+      rect:
+        serializedVersion: 2
+        x: 193
+        y: 93
+        width: 51
+        height: 45
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0678e32b532ffdbf0800000000000000
+      internalID: -297252737945532576
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: stones1_28
+      rect:
+        serializedVersion: 2
+        x: 458
+        y: 128
+        width: 31
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7ef675505e09ffcd0800000000000000
+      internalID: -2522137952992661529
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: stones1_29
+      rect:
+        serializedVersion: 2
+        x: 522
+        y: 120
+        width: 18
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7078fc52f51607ac0800000000000000
+      internalID: -3859477819372370169
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: stones1_30
+      rect:
+        serializedVersion: 2
+        x: 411
+        y: 76
+        width: 58
+        height: 41
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: df535f4dbcc1c7e00800000000000000
+      internalID: 1043740875419891197
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: stones1_31
+      rect:
+        serializedVersion: 2
+        x: 688
+        y: 90
+        width: 14
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 26efa5fbc3511bd50800000000000000
+      internalID: 6751200667057716834
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: stones1_32
+      rect:
+        serializedVersion: 2
+        x: 861
+        y: 58
+        width: 48
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d768e8d6b4137c3c0800000000000000
+      internalID: -4339445515917818243
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: stones1_33
+      rect:
+        serializedVersion: 2
+        x: 43
+        y: 45
+        width: 27
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c43079ec610e86d00800000000000000
+      internalID: 966268508630877004
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: stones1_34
+      rect:
+        serializedVersion: 2
+        x: 314
+        y: 60
+        width: 15
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a7079e64e70aa76f0800000000000000
+      internalID: -686059529004552070
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: stones1_35
+      rect:
+        serializedVersion: 2
+        x: 536
+        y: 62
+        width: 12
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0b9fb8f6267aad9f0800000000000000
+      internalID: -442857572122494544
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: stones1_36
+      rect:
+        serializedVersion: 2
+        x: 789
+        y: 64
+        width: 13
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 67272bc9fa9dea660800000000000000
+      internalID: 7399090586087748214
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      stones1_0: -8692763869700155966
+      stones1_1: -5958948536151229222
+      stones1_10: 4283415500035331030
+      stones1_11: 3940664465536910214
+      stones1_12: -2232355487114372029
+      stones1_13: -1211695213384217843
+      stones1_14: -4911450918798582681
+      stones1_15: -4206681688769149779
+      stones1_16: -3742865111496797922
+      stones1_17: -351368533004855241
+      stones1_18: -6406181363241895611
+      stones1_19: -2368625952668404748
+      stones1_2: -8612148534075845461
+      stones1_20: -8693823947566681999
+      stones1_21: 5209625244249967697
+      stones1_22: 4713886659904756308
+      stones1_23: 3872965734695560965
+      stones1_24: -4279569859795096310
+      stones1_25: 5425028788678633088
+      stones1_26: -8561081336360404046
+      stones1_27: -297252737945532576
+      stones1_28: -2522137952992661529
+      stones1_29: -3859477819372370169
+      stones1_3: -9073237411927599661
+      stones1_30: 1043740875419891197
+      stones1_31: 6751200667057716834
+      stones1_32: -4339445515917818243
+      stones1_33: 966268508630877004
+      stones1_34: -686059529004552070
+      stones1_35: -442857572122494544
+      stones1_36: 7399090586087748214
+      stones1_4: -5034959850048856035
+      stones1_5: 442138495661474434
+      stones1_6: 9178363740437992237
+      stones1_7: 3826843449150721636
+      stones1_8: -7089179944293831390
+      stones1_9: -8115072319127095135
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
